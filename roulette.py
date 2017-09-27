@@ -89,6 +89,7 @@ start_sim("Simmulation 17:", black, 1000, doublezero)
 start_sim("Simulation 18:", wildcard, 1000, doublezero)
 
 print("Thanks for playing!")
+exit = input("Press any key to exit")
 
 
 
